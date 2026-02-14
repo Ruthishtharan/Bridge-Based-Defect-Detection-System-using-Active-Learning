@@ -4,12 +4,9 @@ data/labeled/
 data/uncertain/
 
 # Models
-*.pt
 models/pretrained/
 models/checkpoints/
-models/trained_model/
 models/retrained_model/
-runs/
 
 # Python
 __pycache__/
