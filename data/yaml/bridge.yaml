@@ -1,0 +1,10 @@
+path: D:/Bridge_Defect_ActiveLearning/data/labeled
+
+train: images/train
+val: images/val
+
+names:
+  0: Bearing
+  1: Out of Plane Stiffener
+  2: Gusset Plate Connection
+  3: Cover Plate Termination
