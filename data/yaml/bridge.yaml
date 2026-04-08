@@ -1,10 +1,10 @@
-path: D:/Bridge_Defect_ActiveLearning/data/labeled
+path: data/raw/coco_bridge/COCO-Bridge-2021-plus/300x300
 
-train: images/train
-val: images/val
+train: Train/images
+val: Test/images
 
 names:
-  0: Bearing
-  1: Out of Plane Stiffener
-  2: Gusset Plate Connection
-  3: Cover Plate Termination
+  0: crack
+  1: spalling
+  2: efflorescence
+  3: corrosion

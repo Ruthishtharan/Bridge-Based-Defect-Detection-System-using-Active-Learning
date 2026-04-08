@@ -19,3 +19,8 @@ venv/
 # IDE
 .vscode/
 .idea/
+ml_env/
+runs/
+*.pt
+*.pth
+.DS_Store
