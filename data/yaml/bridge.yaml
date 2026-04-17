@@ -1,0 +1,10 @@
+path: data/raw/coco_bridge/COCO-Bridge-2021-plus/300x300
+
+train: Train/images
+val: Test/images
+
+names:
+  0: crack
+  1: spalling
+  2: efflorescence
+  3: corrosion

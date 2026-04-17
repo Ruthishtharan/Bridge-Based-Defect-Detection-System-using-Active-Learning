@@ -1,0 +1,25 @@
+# Dataset (too large for git)
+data/raw/
+data/labeled/
+data/uncertain/
+
+# Models
+models/pretrained/
+models/checkpoints/
+models/retrained_model/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+venv/
+.venv/
+ml_env/
+
+# OS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
